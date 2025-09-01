@@ -20,18 +20,15 @@ export default function Navbar() {
           <Link to="/art" className="hover:text-gray-300 transition">
             Art
           </Link>
-          <Link to="/contact" className="hover:text-gray-300 transition">
-            Contact
-          </Link>
         </div>
 
         {/* Right: Call-to-action / Login */}
         <div>
           <Link
-            to="/login"
+            to="/contact"
             className="px-4 py-2 border border-white rounded hover:bg-white hover:text-gray-900 transition"
           >
-            Log in
+            Contact
           </Link>
         </div>
       </div>
