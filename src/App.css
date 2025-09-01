@@ -1,0 +1,23 @@
+/* app.css */
+
+/* Example: styling a navbar using Tailwind's apply directive */
+.navbar {
+  @apply flex items-center justify-between p-4 bg-white shadow-md;
+}
+
+.navbar a {
+  @apply text-gray-800 hover:text-blue-500 px-3 py-2 rounded-md;
+}
+
+/* Example: card component */
+.card {
+  @apply bg-white shadow-lg rounded-lg p-6;
+}
+
+.card-title {
+  @apply text-xl font-bold mb-2;
+}
+
+.card-body {
+  @apply text-gray-700;
+}
