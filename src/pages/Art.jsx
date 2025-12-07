@@ -1,7 +1,8 @@
 const artworks = [
-  "/art/art1.jpg",
-  "/art/art2.jpg",
-  "/art/art3.jpg"
+  "./src/assets/glitch.jpg",
+  "./src/assets/No Risk.jpg",
+  "./src/assets/Madden.jpg",
+  "./src/assets/Greatest Lie.jpg"
 ]
 
 export default function Art() {
