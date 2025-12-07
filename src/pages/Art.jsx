@@ -1,4 +1,4 @@
-import Glitch from "./src/assets/glitch.jpg"
+import Glitch from "./src/assets/Glitch.jpg"
 import NoRisk from "./src/assets/No Risk.jpg"
 import Madden from "./src/assets/Madden.jpg"
 import GreatestLie from "./src/assets/Greatest Lie.jpg"
