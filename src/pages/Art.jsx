@@ -1,7 +1,7 @@
-import Glitch from "./src/assets/Glitch.jpg"
-import NoRisk from "./src/assets/No Risk.jpg"
-import Madden from "./src/assets/Madden.jpg"
-import GreatestLie from "./src/assets/Greatest Lie.jpg"
+import Glitch from "../assets/Glitch.jpg"
+import NoRisk from "../assets/No Risk.jpg"
+import Madden from "../assets/Madden.jpg"
+import GreatestLie from "../assets/Greatest Lie.jpg"
 const artworks = [
 Glitch,
 NoRisk,
